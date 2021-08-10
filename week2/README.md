@@ -23,9 +23,9 @@
 ! 하루 마무리 : DL Basic 은 상당히 기본적인 내용이라 스무스했지만, 뒤에 나올 내용이 걱정된다.  
 시각화는 꾸준히 열심히 하면서 나만의 방법을 만들어봐야겠다.  
 ```
-### Day6. 
-> DL Basic : Optimizer 
-> Data Visualization : barplot, lineplot
+### Day7. 
+> DL Basic : Optimizer.  
+> Data Visualization : barplot, lineplot.  
 > 과제 : Optim.  
 1. DL Basic  
 	Optimizer 에 따라 선택 방법과 성능을 높일 수 있는 스킬을 배웠다.  
