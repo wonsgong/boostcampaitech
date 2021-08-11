@@ -23,9 +23,9 @@
 ! 하루 마무리 : DL Basic 은 상당히 기본적인 내용이라 스무스했지만, 뒤에 나올 내용이 걱정된다.  
 시각화는 꾸준히 열심히 하면서 나만의 방법을 만들어봐야겠다.  
 ```
-### Day6. 
-> DL Basic : Optimizer 
-> Data Visualization : barplot, lineplot
+### Day7. 
+> DL Basic : Optimizer.  
+> Data Visualization : barplot, lineplot.  
 > 과제 : Optim.  
 1. DL Basic  
 	Optimizer 에 따라 선택 방법과 성능을 높일 수 있는 스킬을 배웠다.  
@@ -38,6 +38,22 @@
 	파라미터만 잘 넣어주면 된다.  
 ```
 ! 하루 마무리 : 마스터 클래스를 듣고 나니 내가 너무 작게 느껴졌다.  더 열심히 해야겠다.  
+```
+### Day8. 
+> DL Basic : CNN , CV Application.  
+> Data Visualization : scatter plot.  
+> 과제 : CNN.  
+1. DL Basic  
+	CV 의 `Image Classfication` , `Detection` , `Semantic Segmentation` 의 흐름을 알 수 있어서 좋았다.  
+	CV를 더 배우기로 마음먹었는데 역시 어렵다. 그래도 재밌어서 잘 따라갈 수 있을 것 같다.  
+2. Data Visualization  
+	`matplot` 뒤에 나올 `seaborn` 의 강력함을 빨리 느끼고 싶었다.  
+	실습을 해보다보면 정말 보기좋게 시각화하는 스킬?꿀팁? 을 얻어가는 거 같아서 좋다.  당장써먹어야지.  
+3. 과제  
+	`Conv2d` 의 파라미터를 잘 넣어줘야 되는 과제였다.  
+	수업 따라가면 잘 설명해주시고 어렵지 않게 풀 수 있는 과제.   
+```
+! 하루 마무리 : CV를 맛만 보니까 더 재밌는 것 같다.  역시 멀리서 봐야 좋은 거 같다.  CV 화이팅...
 ```
 
 ## 한주 마무리.
