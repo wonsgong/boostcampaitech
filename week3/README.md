@@ -20,4 +20,20 @@
 ! 하루 마무리 : pytorch 에 대한 첫날이었다 보니 크게 어렵지 않게 수업을 들었다.  남은 과제도 내일 다 끝내야겠다!
 ```
 
+### Day12.  
+> Pytorch : AutoGrad & Optimizer , Dataset & Dataloader.  
+> Data Visualization : Text 사용하기.  
+> 과제 : Custom Model 개발하기, Custom Dataset 과제.  
+1. Pytorch  
+	기본적인 구조에 대한 강의다 보니까 완벽하게 이해하기 보다는 구조와 흐름을 이해하려고 노력했다.  
+	AutoGrad 의 경우 제공되는 기능으로서 알고만 넘어갔는데 어떻게 작동하는 지에 대한 내용을 공부할 수 있어서 좋았다.  
+2. Data Visualization  
+	시각화에서 text를 쓰는 경우는 제목과 x,y label을 표기할 때나 기본제공하는 annot=True 를 썼었는 데 생각보다 유용하게 쓸 수 있다는 걸 느꼈다.  
+3. 과제  
+	Custom Model 의 필수 부분은 완료했다.  
+	🔥 푸느라 Custom Dataset 은 아직 시작 못했다.  
+	Custom Dataset 과제 먼제 완료하고 🔥 풀어야겠다.  
+```
+! 하루 마무리 : 프레임워크 공식 API 를 보고 공부했었는 데 이번 기회에 공식문서를 잘 활용하는 게 중요한 걸 더욱 느꼈다.  
+```
 ## 한주 마무리.

@@ -5,3 +5,5 @@
 ### [[Week 1] Python_Basics_for_AI / AI_Math ](./week1)
 
 ### [[Week 2] DL Basic / Data Visualization ](./week2)
+
+### [[Week 3] Pytorch / Data Visualization ](./.week3)
