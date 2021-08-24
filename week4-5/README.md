@@ -19,4 +19,17 @@
 ! 하루 마무리 : EDA는 정답이 없다는 걸 다시 한번 느꼈고, 좀 더 자세히, 다양한 접근접으로 데이터를 이해해봐야겠다.  
 ```
 
+### Day16.  
+> Image Classification : Dataset, Data Generation.  
+> Special Mission : Dataset, Data Generation.  
+1. Image Classification  
+	Dataset에 대한 transforms을 왜 하는지, 하고나서 어떻게 나올지에 대한 고민을 우선하고 해야겠다.  
+	`Pytorch Dataset` 강의 내용과 유사해서 어렵진않았다.  
+2. Special Mission  
+	`dataset.ImageFolder` 를 활용해서 train dataloader 를 만들었다.  
+	이후 `StratifiedShuffleSplit`로 라벨별로 균형있게 나눠서 `train/val dataset` 구현.   
+```
+! 하루 마무리 : 데이터를 좀 더 많이 들여다보고 이것저것 할때 이유를 가지고 해야겠다.  
+```
+
 ## 한주 마무리.
