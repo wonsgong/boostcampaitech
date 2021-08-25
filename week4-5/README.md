@@ -5,6 +5,10 @@
 > 피어세션 : https://drive.google.com/drive/folders/10awg6wJGwb6Xu-jHX5kLvl8_CmDx3b_0  
 > 과제    : 개인 코랩에 올려놓는 중.  
 
+## Overview
+> 주제  : 마스크 착용 상태 분류, 카메라로 촬영한 사람 얼굴 이미지의 마스크 착용 여부를 판단하는 Task.  
+> 데이터 : 남여(20-70대) 4,500명. 1명 당 7장(마스크 5, 오착용 1, 미착용 1)의 (384,512) Image.  
+
 ## Lecture
 ### Day15.  
 > Image Classification : Competition with AI Stages, Image Classification & EDA.  
@@ -31,5 +35,18 @@
 ```
 ! 하루 마무리 : 데이터를 좀 더 많이 들여다보고 이것저것 할때 이유를 가지고 해야겠다.  
 ```
+
+### Day17.  
+> Image Classification : Model 1, Model 2.  
+> Special Mission : Model.  
+1. Image Classification  
+	지난번에 공부했던 Transfer Learning 에 대해 좀 더 자세히 배웠다.  
+	구현보다는 어떤 모델을 고르고, 어떻게 학습을 시킬지 에 대한 내용에 좀 더 중점적으로 학습했다.  
+2. Special Mission  
+	보여준 모델이 `Darknet 53` 이라서 구현되어있는 모델을 참고하면서 구현해보려고 노력했다.  
+```
+! 하루 마무리 : 파라미터 튜닝을 지난주에 배운 `Ray` 를 써봐야겠다.  
+```
+
 
 ## 한주 마무리.
