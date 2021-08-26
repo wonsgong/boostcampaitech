@@ -48,5 +48,18 @@
 ! 하루 마무리 : 파라미터 튜닝을 지난주에 배운 `Ray` 를 써봐야겠다.  
 ```
 
+### Day18.  
+> Image Classification : Training & Inference.  
+> Special Mission : Training & Inference.  
+1. Image Classification  
+	이미 실습에서 하고 있는 부분이었는데 베이스라인과 process를 다시 한번 더 이해할 수 있었다.  
+	역시나 문제 정의와 그 문제에 맞는 적절한 메소드를 이용하는 것이 중요했다.  
+2. Special Mission  
+	제시된 방법들을 적용하고 바꿔가며 학습을 진행해봤다.  
+	이 역시 문제에 맞는 방법론을 이해하고 적용하는게 필요했다.  
+```
+! 하루 마무리 : 개인제출 기간에 할 수 있는 건 다양하게 해본 것 같다. 내일부터 팀전이니 좀 더 생각하고 튜닝해야겠다.  
+```
+
 
 ## 한주 마무리.
