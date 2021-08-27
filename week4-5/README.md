@@ -62,4 +62,24 @@
 ```
 
 
+### Day19.  
+> Image Classification : Ensemble, Experiment Toolkits & Tips.  
+> Data Visualization : seaborn
+> Special Mission : Ensemble / Experiment Toolkits.  
+1. Image Classification  
+	ensemble을 단순히 모델을 여러개 쓴다고 생각했는데 좀 더 다양한 방법론이 있다는 걸 배웠다.  
+	마지막에 이야기해주신 내용들(tips) 을 잘 생각하며 다음주 대회에 참여해야겠다.  
+2. Data Visualization  
+	`seaborn` 에 대한 내용을 딥러닝 입문 때 배웠었는데 그땐 그냥 아 그렇구나 하고 넘어갔는데  
+	더 공부하고 다시 공부하니까 어디다가 적용할 수 있겠구나를 느꼈다.  
+	역시 아는 만큼 보인다. 내가 알아야 남에게 보여줄 시각화가 가능하다.  
+3. Special Mission  
+	`Stratified K-fold` 을 이용해서 `train/val dataset` 을 분리해서 학습시켜봤다.   
+```
+! 하루 마무리 : 백신 맞고 생각보다 괜찮은거 같아서 좀 앉아있었더니 머리아팠다.  일단 쉬고 주말에 더 공부하자.  
+```
+
 ## 한주 마무리.
+모델을 향상시키면서 이것저것 해볼 수 있는 일주일이었다.  
+여태까지 중에 제일 일주일이 빨리갔다고 느낄정도로 재밌게 공부했다. 이래서 사람들이 컴페티션에 참여하는 가보다.  
+이번주 아쉬웠던 점들을 주말동안 보충해서 다음주 팀에 많은 도움이 되었으면 한다.  
