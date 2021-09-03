@@ -6,7 +6,7 @@
 
 ### [[Week 2] DL Basic / Data Visualization ](./week2)
 
-### [[Week 3] Pytorch / Data Visualization ](./.week3)
+### [[Week 3] Pytorch / Data Visualization ](./week3)
 
 ## P stage
-### [[Week 4-5] Image Classification](./.week4-5)
+### [[Week 4-5] Image Classification](./week4-5)
