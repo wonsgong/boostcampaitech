@@ -8,5 +8,6 @@
 
 ### [[Week 3] Pytorch / Data Visualization ](./week3)
 
+### [[Week 6] CV / Data Visualization](./week6)
 ## P stage
 ### [[Week 4-5] Image Classification](./week4-5)
