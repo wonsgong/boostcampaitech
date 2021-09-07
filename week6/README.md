@@ -26,4 +26,18 @@
 ! 하루 마무리 : level1 에서 많은 양을 짧은 시간동안 배워서 그런지 첫날엔 여유로웠다.  
 ```
 
+## Lecture
+### Day26.  
+> CV : Image Classification 2.  
+> Data Visualization : Interactive Visuailization.  
+1. CV   
+    backbone 으로 사용할 수 있는 다양한 cnn 모델들을 배웠다.  
+    내일은 `self-learning` 논문을 읽고 P-Stage 에서 사용한 데이터셋을 활용해 구현해봐야겠다.  
+2. Data Visualization  
+    라이브러리가 잘 되어있어서 문법의 큰 차이 없이 할 수 있다는 점을 느꼈다.  
+    확실히 정적 시각화보다는 느리고 꼭 필요할 때만 사용해야겠다.      
+```
+! 하루 마무리 : 안주하지말고 더 공부하자.  
+```
+
 ## 한주 마무리.
