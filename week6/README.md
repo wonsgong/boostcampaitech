@@ -26,7 +26,6 @@
 ! 하루 마무리 : level1 에서 많은 양을 짧은 시간동안 배워서 그런지 첫날엔 여유로웠다.  
 ```
 
-## Lecture
 ### Day26.  
 > CV : Image Classification 2.  
 > Data Visualization : Interactive Visuailization.  
@@ -40,4 +39,24 @@
 ! 하루 마무리 : 안주하지말고 더 공부하자.  
 ```
 
+### Day27.  
+> CV : Baseline 구축.  
+> Data Visualization : Custom Matplotlib Theme, Image & Text Visualization Techniques.  
+> 과제 : Data Augmentation.  
+1. CV  
+    `Self-learning` , `RandAugment` 논문을 읽으며 하루를 보냈다.  
+    피어세션에서 나온 개인 Baseline 구축을 `P-Stage` 에서 진행한 코드 기반으로 하고 있다.  
+    `P-Stage` 코드를 어떻게 정리해서 git에 올릴까 했는 데 나의 Baseline 으로 사용할 수 있게금 해서 올려야겠다.  
+2. Data Visualization  
+    주로 darkmode를 쓰는 데 이번 `Matplotlib` 테마를 다크모드로 바꾸는 것을 보고 바로 모듈화했다.  
+    주피터 환경에서 진행 시에 항상 설정하고 사용해야겠다.  
+3. 과제  
+    `torchvision.transforms` 을 사용해서 `Data Augmentation` 를 해줬다.  
+    과제에서 제시된 내용들을 수행해보니 역시 데이터에 대한 이해가 있어야 증강도 하겠구나 싶었다.  
+    아니면 `RandAugment` 사용이 맞는듯 하다.  
+    `Albumentations` 를 이번에 사용해봤는 데 더 빠르고 다양한 방법에다가 `bbox` 를 함께 고려해준다는 점에서 큰 매력을 느꼈다.  
+    그래서 baseline 짤 때는 `Abumentations` 을 이용해서 할 예정이다.  
+```
+! 하루 마무리 : 뜻을 세웠으면 우직하게 밀고 나가자. 흔들리지말고.  
+```
 ## 한주 마무리.
