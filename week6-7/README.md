@@ -105,6 +105,21 @@
 ! 하루 마무리 : 팀원 구합니다. 사실 친구 구해요.  
 ```
 
+### Day31.  
+> CV : Instance/Panoptic Segmentation and Landmark Localization.  
+> 과제 : Human Pose Estimation Using Hourglass Network.  
+1. CV  
+    강의 마지막에 해주신 마스터님의 이야기(다양한 task들이 유사한 디자인 패턴으로 이루어져있다.)를 바탕으로 복습했다.  
+    원하는 task 를 명확하게 정의하고 구현하는 것이 중요하다는 걸 다시한번 느꼈다.  
+2. 과제  
+    `Hourglass Net` 에 경우 학습 시에는 쌓여있는 `Hourglass` 에서 나온 모든 결과를 가지고 loss 를 구하고,  
+    추론 시에 마지막 결과값만을 가지고 하면 된다는 것을 알았다.  
+    `heatmap` 에서 `Landmark` 좌표값을 얻을 때 일정 값의 `threshold` 을 적용해서 구하는 방법과,  
+    `np.unravel_index` 을 이용해 구하는 방법을 적용해서 해봤는데 역시나 큰 차이는 없었다.  
+    이번 오피스아워를 잘 들어봐야겠다.  
+```
+! 하루 마무리 : 팀을 잘 마무리해서 다행이다. 이제 좀 더 집중해서 공부하자.  
+```
 ## Week 6 마무리.
 CV 개론을 들은 한주였다.  
 생각해볼 주제를 던져주시는 강의와 과제를 진행하다보니 명확하게 공부한것 같지는 않아서 아쉽다.  
