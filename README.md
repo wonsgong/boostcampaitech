@@ -13,3 +13,5 @@
 ### [[Week 8] Special lecture](./week8)
 ## P stage
 ### [[Week 4-5] Image Classification](./week4-5)
+
+### [[Week 9] Object Detection](./week9)
