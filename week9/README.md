@@ -18,4 +18,20 @@
 ! 하루 마무리 : 졸업 가능할듯!
 ```
 
+### Day38   
+> Object Detection : Object Detection Library, Neck.  
+> Special Mission : mAP metric, Faster RCNN, Baseline.  
+1. Object Detection.  
+    `MMDetection` 위주로 많이 실습을 해봤다.  
+    마스터님 이야기처럼 명확하게 이해하고 쓰기 위해 이것저것 변경해보면서 테스트해봤다.  
+    이것저것 테스트 해보면서 느낀 건 확실히 `mAP_s` 이 정말 안나온다는 것이었다.  
+    `Neck` 에서 배운 여러가지 모델들을 고민해보고 적용해봐야겠다.  
+2. Special Mission.  
+    `mAP` 를 구현해보는 것에 그치지 않고 무엇을 의미하는 지 좀 더 공부해봤다.  
+    `torchvision` , `MMDetection` 에서 제공하는 `Faster RCNN` 으로 학습과 추론을 진행했다.  
+    강의를 우선적으로 듣기 위해서 `Challenge` 는 아직 도전하지 않았다.  
+```
+! 하루 마무리 : EDA 를 좀 더 해보고 모델를 구현하자.  
+```
+
 ## Week 9 마무리.
