@@ -34,4 +34,20 @@
 ! 하루 마무리 : EDA 를 좀 더 해보고 모델를 구현하자.  
 ```
 
+
+### Day39    
+> Object Detection : 1 Stage Detection, EfficientDet.  
+> Special Mission : YOLO v1, EfficientDet.  
+1. Object Detection.  
+    이론적인 내용은 스무스하게 이해하고 넘어갔다.  
+    피어세션에서 공유했던 내용을 토대로 좀 더 잘 이해할 수 있었다.  
+    큰 흐름을 가지고서 수업을 해주시다 보니까 발전 흐름을 이해할 수 있었다.  
+2. Special Mission.  
+    주어진 `EfficientDet` 코드를 활용해서 학습을 할 수 있도록 하고 있다.  
+    직접 구현되어 있는 `mAP`와 `nms` 코드를 확인해보면서 완성하고 있다.   
+    오늘 중으로 최대한 돌려볼 수 있도록 코드를 구현하고 있다.  
+```
+! 하루 마무리 : 다음주가 본격 시작이라 생각하고 기틀을 다지자.
+```
+
 ## Week 9 마무리.
