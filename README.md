@@ -14,4 +14,4 @@
 ## P stage
 ### [[Week 4-5] Image Classification](./week4-5)
 
-### [[Week 9] Object Detection](./week9)
+### [[Week 9-11] Object Detection](./week9-11)
