@@ -87,6 +87,16 @@
 ! 하루 마무리 : vfnet 더 파보자!
 ```
 
+### Day43
+> Object Detection : Ready for Competition, Review Top Solution in Kaggle.  
+1. Object Detection.  
+    강의에서 소개한 `MultilabelStratifiedKFold` 를 토대로 valid set을 확인해봤다.  
+    간단하게 `클래스 별 bbox` 를 기준으로 나눴어서 `클래스 별 bbox size` 를 확인했다.  
+    `Object Detection` 이나 `Segmentaion` 에선 항상 `bbox` 나 `mask` 정보가 중요하다는 것을 잊지말자.  
+    `vfnet` 모델은 어느정도 성능이 나왔으니까 다른 모델을 가지고 테스트를 진행해야겠다.  
+```
+! 하루 마무리 : 슬슬 성능을 뽑아내야 할 시점이 온 것 같다.  
+```
 ## Week 9 마무리.
 `Object Detection` task 를 처음해보다 보니까 초반 접근이 어려웠다.  
 `MMDetection` 라이브러리를 활용하면 쉽게 할 수 있었겠지만,  
