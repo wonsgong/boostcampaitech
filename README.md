@@ -15,3 +15,5 @@
 ### [[Week 4-5] Image Classification](./week4-5)
 
 ### [[Week 9-11] Object Detection](./week9-11)
+
+### [[Week 12-14] Semantic Segmentation](./week12-14)
