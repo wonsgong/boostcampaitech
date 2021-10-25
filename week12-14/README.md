@@ -6,6 +6,8 @@
 > 과제    : 개인 코랩에 올려놓는 중.  
 
 ## Lecture
+### Week12
+----------------
 ### Day50
 > Semantic Segmentation : Introduction, Competition Overview, Semantic Segmentation의 기초와 이해.  
 > Special Mission : FCN8, FCN16, FCN32.  
@@ -79,6 +81,25 @@
     데이터 전처리에 경우 오늘 들은 `마스터 클래스` 에서 소개해준 방법들을 적용해보자.  
 ```
 ! 하루 마무리 : 오늘 하루는 큰 성과가 없어서 아쉽다.
+```
+
+## Week13
+----------------
+### Day55
+> Semantic Segmentation : Semantic Segmentation 연구 동향 1,2.  
+> Competition : efficientnetv2, heavyaug, data balance.  
+1. Semantic Segmentation  
+    `HRNet` 이 왜 등장했고, 어떻게 좋은 성능을 낼 수 있었는 지 이해할 수 있었다.  
+    지금 좋은 모델들에 적용해서 실험해봐야겠다.  
+    `WSSS` 에 경우 이렇게 학습할 수도 있구나 정도로만 이해하고 넘어갔다.  
+2. Competition  
+    `Unet` 을 베이스로 진행하고 있고, 백본 교체로 좋은 성능을 가져올 수 있었다.  
+    이후 `OneOf` 를 이용해서 좀 더 헤비한 augmentation 을 적용하고 실험중에 있다.  
+    데이터의 불균형을 줄이고자 많은 건 줄이고, 부족한 건 늘려서 균형을 맞춰본다면 어떨까라는 아이디어로 현재 실험중에 있다.  
+    균일하게 학습이 되겠지만, 데이터 증강을 통해 늘어난 카테고리가 과적합될 것 같기도해서 결과를 봐봐야 될 것 같다.  
+    좀 더 의미있는 실험을 진행하자.  
+```
+! 하루 마무리 : 보다 제너럴하게 학습시킬 수 없을까?
 ```
 
 ## Week 12 마무리.
