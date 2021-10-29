@@ -127,8 +127,36 @@
 ! 하루 마무리 : 해봐야 안다. 안해보고 알수는 없을까ㅠ 욕심일까ㅠ
 ```
 
+### Day58
+> Competition : UperNet, BeiT, Data Augmentation, Gradient Accumulation.  
+1. Competition  
+    `Upernet-BeiT` 학습 결과가 괜찮게 나와서 이를 더 발전시켜보자.  
+    `Geometric transform` 에 경우 Object 에만 넣거나, 확률을 적게해서 학습해야겠다.  
+    과하게 되면 오히려 학습에 방해가 되버리네.  
+    배치가 작아서 `Gradient Accumulation` 을 사용해서 좀 더 효과적으로 학습을 시켜봐야겠다.  
+```
+! 하루 마무리 : 뭣이 중한디 를 떠올린 하루.
+```
+
+### Day59
+> Competition : pseudo labeling, Gradient Accumulation.  
+1. Competition  
+    `MMSegmentation` 에 경우 model 의 결과가 바로 mask 이미지라서  
+    모델 구조를 확인 후 `logit` 값을 리턴받아 지난번에 했던 방식으로 `pseudo labeling` 했다.  
+    `fine-tune` 과 처음부터 학습시키는 것, 둘 다 해보려고한다.(`fine-tune`은 지난번에 실패ㅠ)  
+    해당 모델 학습 시에 `Gradient Accumulation` 을 적용해서 하자.  
+```
+! 하루 마무리 : 집중. 내가 해야 할 일에 집중!  
+```
+
 ## Week 12 마무리.
 아무래도 한번 더 보는 데이터다 보니 좀 더 빠르게 감을 잡을 수 있었다.  
 내 모델이 뭘 못하고 있는 지, 내가 해결해야할 과제가 무엇인지 정하고,  
 우선 순위를 정해서 해결하라는 마스터님의 말씀을 생각하고  
 주말 동안 다음주에 무엇을 해야할 지 고민하고 정리해야겠다.  
+
+## Week 13 마무리.
+SOTA 모델을 적용해서 학습을 시키고 있다.  
+지난번 대회에 비해 이번엔 좀 더 모델에 대한 이해도를 높이고 진행할 수 있었다.  
+다만 몸 상태가 별로라 완전 적극적으로 하지 못해서 아쉬웠던 한주였다.  
+관성적으로 학습하지말고 고민하고 또 고민하면서 학습하자.  
