@@ -176,6 +176,18 @@
 ! 하루 마무리 : 요새 쉽지않네
 ```
 
+### Day62
+> Competition : 성능을 올리기 위한 기법.  
+1. Competition  
+    `Upernet_beit` 모델을 최종으로 완성시켰다.(`all_data` + `pseudo`)  
+    이후 `segformer_swin` 를 활용해 학습을 진행했고, 이를 이용해 앙상블해서 좋은 결과를 가져올 수 있었다.  
+    하루가 남은 시점에 성능을 올리기 위한 기법들을 좀 더 적용해서 테스트 한 후,  
+    `Upernet_beit` 와 같이 `all_data` + `pseudo` 로 완성해서 결과를 내야겠다.  
+    실험 할 내용 : `gradient accumulation` , `mixed precision`  
+```
+! 하루 마무리 : 영끌이라는게 이런건가
+```
+
 ## Week 12 마무리.
 아무래도 한번 더 보는 데이터다 보니 좀 더 빠르게 감을 잡을 수 있었다.  
 내 모델이 뭘 못하고 있는 지, 내가 해결해야할 과제가 무엇인지 정하고,  
