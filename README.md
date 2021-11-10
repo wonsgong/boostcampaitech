@@ -29,7 +29,7 @@
 - 일상에서 발생하는 10가지 종류의 쓰레기 객체를 검출하는 Task.  
 - 데이터 : 일반쓰레기, 종이, 종이팩, 철, 유리, 플라스틱, 스티로폼, 비닐, 배터리, 의류 총 10종류 별로 bounding box 와 category 가 라벨링된 4883장 이미지.  
 - 결과 : mAP, public LB(9등) :  0.674-> private LB(8등) : 0.661.  
-### [Week 12-14] Semantic Segmentation [[docs]](./week12-14) [[code]](./)
+### [Week 12-14] Semantic Segmentation [[docs]](./week12-14) [[code]](https://github.com/wonsgong/semantic-segmentation-level2-cv-05)
 - 일상에서 발생하는 10가지 종류의 쓰레기 객체를 검출하는 Task.  
 - 데이터 : 일반쓰레기, 종이, 종이팩, 철, 유리, 플라스틱, 스티로폼, 비닐, 배터리, 의류 총 10종류 별로 masking 정보를 담고 있는 json 파일과 2647장 이미지.  
 - 결과 : mIoU, public LB(5등) :  0.780-> private LB(2등) : 0.766.  
