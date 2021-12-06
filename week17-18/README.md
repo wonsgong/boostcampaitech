@@ -1,4 +1,4 @@
-# [Week 15-16] Model Optimization
+# [Week 17-18] Model Optimization
 
 > 여기엔 매일매일의 간단한 내용과 느낌점을 두서없이 적어놓습니다.  
 > 수업 필기는 `goodNotes` 앱을 활용해서 따로 폴더에서 확인.(수업 ppt는 가려둠.)  

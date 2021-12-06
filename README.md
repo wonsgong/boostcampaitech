@@ -36,3 +36,5 @@
 ### [Week 15-16] Data Annotation [[docs]](./week15-16)
 
 ### [Week 17-18] Model Optimization [[docs]](./week17-18)
+
+### [Week 19-21] Product Serving [[docs]](./wekk19-21)
