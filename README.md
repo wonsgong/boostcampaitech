@@ -37,4 +37,4 @@
 
 ### [Week 17-18] Model Optimization [[docs]](./week17-18)
 
-### [Week 19-21] Product Serving [[docs]](./wekk19-21)
+### [Week 19-21] Product Serving [[docs]](./week19-21)
