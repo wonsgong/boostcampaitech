@@ -28,13 +28,17 @@
 ### [Week 9-11] Object Detection [[docs]](./week09-11) [[code]](https://github.com/wonsgong/object-detection-level2-cv-05)
 - 일상에서 발생하는 10가지 종류의 쓰레기 객체를 검출하는 Task.  
 - 데이터 : 일반쓰레기, 종이, 종이팩, 철, 유리, 플라스틱, 스티로폼, 비닐, 배터리, 의류 총 10종류 별로 bounding box 와 category 가 라벨링된 4883장 이미지.  
-- 결과 : mAP, public LB(9등) :  0.674-> private LB(8등) : 0.661.  
+- 결과 : mAP, public LB(9등) :  0.674 -> private LB(8등) : 0.661.  
+
 ### [Week 12-14] Semantic Segmentation [[docs]](./week12-14) [[code]](https://github.com/wonsgong/semantic-segmentation-level2-cv-05)
 - 일상에서 발생하는 10가지 종류의 쓰레기 객체를 검출하는 Task.  
 - 데이터 : 일반쓰레기, 종이, 종이팩, 철, 유리, 플라스틱, 스티로폼, 비닐, 배터리, 의류 총 10종류 별로 masking 정보를 담고 있는 json 파일과 2647장 이미지.  
-- 결과 : mIoU, public LB(5등) :  0.780-> private LB(2등) : 0.766.  
-### [Week 15-16] Data Annotation [[docs]](./week15-16)
+- 결과 : mIoU, public LB(5등) :  0.780 -> private LB(2등) : 0.766.  
 
+### [Week 15-16] Data Annotation [[docs]](./week15-16) [[code]](https://github.com/wonsgong/data-annotation-cv-level3-cv-05)
+- OCR 모델을 데이터 처리에만 집중해서 성능을 높이는 Task.  
+- 데이터 : 직접 Annotation 한 scene text(한글, 영어) 의 정보를 담고 있는 json 파일과 1858 이미지.   
+- 결과 : f1, public LB(3등) : 0.678 -> private LB(1등) : 0.691.
 ### [Week 17-18] Model Optimization [[docs]](./week17-18)
 
 ### [Week 19-21] Product Serving [[docs]](./week19-21)
