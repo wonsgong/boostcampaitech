@@ -36,3 +36,18 @@
 ```
 ! 하루 마무리 : 좋은 라이브러리를 알게 되어서 좋구만.  
 ```
+
+### Day88
+> Product Serving : Linux & Shell Command, Cloud, Github Action 이용한 CI/CD.  
+> Final Project : 모델 학습 및 서빙.  
+1. Product Serving.
+    `Github Action` 을 이용해서 `CI/CD` 을 직접 실습해봤다.  
+    `GCP` 에서 `streamlit` 을 이용해 웹을 띄우고, 코드 수정 후 자동 배포되도록 진행했다.  
+    이쪽으로는 잘 알지 못했는 데 생각보다 재밌겠다는 생각과 함께 Test Code 를 어떻게 짜야할 지에 대한 생각이 들었다.  
+    이것저것 직접 해보면서 감을 잡아봐야겠다.  
+2. Final Project.
+    모델 학습을 진행과 동시에 `GCP` 를 이용해서 서빙을 할 수 있을 지 확인해봤다.  
+    최종 결과물에 대한 고민을 좀 더 하고 명확하게 정해야겠다.  
+```
+! 하루 마무리 : 모델에 집중 할 지, 결과물에 집중 할 지, 어렵다. 
+```
