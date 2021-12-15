@@ -68,6 +68,20 @@
 ! 하루 마무리 : 남은 2주동안 열심히 달려봅시다.  
 ```
 
+### Day92
+> Product Serving : Docker.  
+> Final Project : segmentation model 학습.  
+1. Product Serving.
+    `Docker` 의 기본 사용법에 대해서 공부했다.  
+    자주 이미지를 만들고 배포해봐야 익숙해질 것 같다.  
+2. Final Project.
+    현재 결과가 좋은 segmentation model 학습으로 역할을 맡고 진행중이다.  
+    학습 시에 background 에 다르게 handwriting 이 그려질 수 있게 수정해서 학습했다.  
+    실제 데이터에도 잘 될 수 있게 다양한 augment 를 고민해봐야겠다.  
+```
+! 하루 마무리 : .
+```
+
 ## Week 19 마무리.
 해야할 것들(강의,최종프로젝트,면접)이 많아서 바쁘고 피곤한 한주였다.  
 시간 관리를 잘해서 균형있게 진행해야겠다.  
